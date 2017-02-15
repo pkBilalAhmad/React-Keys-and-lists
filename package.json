@@ -1,0 +1,16 @@
+{
+  "name": "react-keys-and-list",
+  "version": "1.0.0",
+  "description": "React Keys and lists",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "B"
+  ],
+  "author": "BilalAhmad",
+  "license": "ISC"
+}
